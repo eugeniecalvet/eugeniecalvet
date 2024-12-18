@@ -1,1 +1,66 @@
-
+body{
+ background-color:rgb(105, 11, 11);
+}
+h1{
+ color :gray;
+ text-decoration-line: underline;
+ text-align: center;
+ font-size: 250%;
+}
+.bar{
+    width: 50%;
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-right: 10%;
+    float:right;
+}
+ul{
+    color: gray;
+    font-size:150%;
+    margin-left: 10%;
+}
+.case{
+    margin: 100px;
+    padding: 50px;
+    background-color: rgb(168, 33, 33);
+    border:1px rgb(168, 33, 33) solid;
+    text-align: left;
+    width: 100px;
+    border-radius :10px;
+}
+.link{
+    color: gray;
+}
+.p1{
+    color: gray;
+    font-size:130%; 
+    text-align: center;    
+}
+.logo{
+    border-radius :17px;
+    width: 5%;
+    float: left;
+    margin-left: 20px;
+}
+h2{
+    color: gray;
+    font-style :italic;
+}
+.p2{
+    color: gray;
+    font-size:150%; 
+    margin-left :290px;
+}
+td{
+    border:2px grey solid;
+    width:25%;
+    color: grey;
+}
+table{
+    border:2px grey solid;
+    width:50%;
+    border-collapse: collapse;
+    margin-top: 2%;
+    margin-left: 30%;
+    margin-right: 10%; 
+}
