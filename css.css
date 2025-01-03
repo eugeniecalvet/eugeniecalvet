@@ -14,7 +14,7 @@ h1{
     margin-right: 10%;
     float:right;
 }
-ul{
+.li{
     color: gray;
     font-size:150%;
     margin-left: 10%;
@@ -83,4 +83,13 @@ iframe{
     color: grey;
     text-align: center;
     font-size:150%; 
+}
+.liste{
+    color: gray;
+    font-size:170%;
+    text-decoration-line: underline;
+}
+.liste2{
+    color: gray;
+    font-size:150%;
 }
