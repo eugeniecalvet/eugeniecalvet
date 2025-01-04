@@ -96,7 +96,7 @@ iframe{
 .link2{
     color: gray;
     position: absolute;
-    left: 10px; 
+    right: 10px; 
     top: 100%;
     transform: translateY(-50%); 
     font-size:100%; 
